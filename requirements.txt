@@ -11,7 +11,7 @@ greenlet==0.4.6
 gunicorn==18.0
 newrelic==2.18.1.15
 numpy==1.7.0
-paramiko==1.12.3
+paramiko==2.10.1
 psycopg2==2.5.2
 pycrypto==2.6.1
 python-memcached==1.53
