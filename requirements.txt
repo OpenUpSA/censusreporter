@@ -1,7 +1,7 @@
 Django==1.5.4
 Fabric==1.8.3
 GDAL==1.11.0
-SQLAlchemy==0.9.4
+SQLAlchemy==1.3.0b3
 boto==2.27.0
 django-pipeline==1.3.23
 ecdsa==0.11
